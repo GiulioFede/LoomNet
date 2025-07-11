@@ -1,6 +1,5 @@
 # LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving
-> [!NOTE]
-> The paper is under review and the code will be released soon.
+:warning: The paper is under review and the code will be released soon.
 
 <table>
   <tr>
