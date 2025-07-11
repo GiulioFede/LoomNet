@@ -2,6 +2,7 @@
 :warning: The paper is under review and the code will be released soon.
 
 ## :blue_book:  <a href="https://arxiv.org/pdf/2507.05499" target="_blank">ArXiv Paper</a>
+## ⭐ Star this repo to stay updated on the code release — and if you appreciate our work :relaxed:
 
 ![Teaser](https://github.com/GiulioFede/LoomNet/blob/main/github_files/teaser.jpg)
 
