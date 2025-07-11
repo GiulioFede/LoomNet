@@ -1,5 +1,7 @@
 # LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving
 > [!NOTE]
+> The paper is under review and the code will be released soon.
+
 <table>
   <tr>
     <td>
@@ -12,7 +14,6 @@
     </td>
   </tr>
 </table>
-> The paper is under review and the code will be released soon.
 
 ![Teaser](https://github.com/GiulioFede/LoomNet/blob/main/github_files/teaser.jpg)
 
