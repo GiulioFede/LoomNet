@@ -18,7 +18,7 @@ Generating consistent multi-view images from a single image remains challenging.
 
 
 <p float="left">
-  <img src="[https://example.com/image1.png](https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_multiview.png)" width="300" style="margin-right:10px"/>
+  <img src="https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_multiview.png" width="300" style="margin-right:10px"/>
   <img src="https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_mesh.png" width="300"/>
 </p>
 
