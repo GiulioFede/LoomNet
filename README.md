@@ -4,12 +4,12 @@ Generating consistent multi-view images from a single image remains challenging.
 <table>
   <tr>
     <td>
-      <a href="[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/pdf/2507.05499)">
+      <a href="https://arxiv.org/pdf/2507.05499">
         <img src="https://github.com/GiulioFede/LoomNet/blob/main/github_files/arxiv_logo.jpg?raw=true" alt="arXiv" width="50"/>
       </a>
     </td>
     <td>
-      <a href="[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/pdf/2507.05499)">Read the paper on arXiv</a>
+      <a href="https://arxiv.org/pdf/2507.05499">Read the paper on arXiv</a>
     </td>
   </tr>
 </table>
