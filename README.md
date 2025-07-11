@@ -23,6 +23,22 @@ Generating consistent multi-view images from a single image remains challenging.
 |------------------------------|------------------------------|
 
 
+## :open_book: Citation
+
+If you find this repository useful, please consider citing:
+
+```
+@misc{federico2025loomnetenhancingmultiviewimage,
+      title={LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving}, 
+      author={Giulio Federico and Fabio Carrara and Claudio Gennaro and Giuseppe Amato and Marco Di Benedetto},
+      year={2025},
+      eprint={2507.05499},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.05499}, 
+}
+```
+
 
 
 
