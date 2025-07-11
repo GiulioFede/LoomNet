@@ -16,11 +16,9 @@ Generating consistent multi-view images from a single image remains challenging.
   </tr>
 </table>
 
+| ![Immagine 1](https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_multiview.png) | ![Immagine 2]([url_immagine2](https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_mesh.png)) |
+|------------------------------|------------------------------|
 
-<p float="left">
-  <img src="https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_multiview.png" width="300" style="margin-right:10px"/>
-  <img src="https://github.com/GiulioFede/LoomNet/blob/main/github_files/risultati_mesh.png" width="300"/>
-</p>
 
 
 
