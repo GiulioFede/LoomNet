@@ -1,7 +1,7 @@
 # LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving
 :warning: The paper is under review and the code will be released soon.
 
-:blue_book:  <a href="https://arxiv.org/pdf/2507.05499" target="_blank">ArXiv Paper</a>
+## :blue_book:  <a href="https://arxiv.org/pdf/2507.05499" target="_blank">ArXiv Paper</a>
 
 ![Teaser](https://github.com/GiulioFede/LoomNet/blob/main/github_files/teaser.jpg)
 
