@@ -10,11 +10,10 @@
       </a>
     </td>
     <td>
-      [GitHub Pages](https://pages.github.com/)
+      <a href="https://arxiv.org/pdf/2507.05499">Read the paper on arXiv</a>
     </td>
   </tr>
 </table>
-
 
 ![Teaser](https://github.com/GiulioFede/LoomNet/blob/main/github_files/teaser.jpg)
 
